@@ -1,0 +1,8 @@
+c:\users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.exe
+c:\users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.pdb
+c:\users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\obj\x86\Debug\PerformanceTest.exe
+c:\users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\obj\x86\Debug\PerformanceTest.pdb
+C:\Users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\bin\Debug\PerformanceTest.exe.config
+C:\Users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\bin\Debug\xunit.dll
+C:\Users\yniu\documents\visual studio 2010\Projects\PerformanceTest\PerformanceTest\bin\Debug\xunit.extensions.dll

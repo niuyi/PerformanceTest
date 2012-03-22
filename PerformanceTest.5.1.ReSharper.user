@@ -1,0 +1,100 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:PerformanceFacts.cs" caret="174" fromTop="6" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="2795" fromTop="117" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:PerformanceFacts.cs" caret="174" fromTop="6" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="2744" fromTop="10" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="2838" fromTop="23" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="368" fromTop="4" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="1704" fromTop="12" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="2584" fromTop="27" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="2115" fromTop="10" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="2329" fromTop="19" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="3022" fromTop="17" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="1295" fromTop="2" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="1535" fromTop="8" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="847" fromTop="22" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="961" fromTop="15" />
+      <File id="04F2363A-32F8-4FC7-AA37-3A107710BC7C/f:Program.cs" caret="1109" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers>
+      <MSTest>False</MSTest>
+      <nUnit>False</nUnit>
+    </Providers>
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="System" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="PerformanceCounterCategory`0" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="Console`0" priority="7" />
+      <Item value="category" priority="0" />
+      <Item value="categories" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="exists" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="List" priority="1" />
+      <Item value="args" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="s" priority="5" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="0" />
+      <Item value="LdapStyleUriParser`0" priority="0" />
+      <Item value="list" priority="3" />
+      <Item value="for" priority="1" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="sb" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="LoopWithNotBigObject`0" priority="0" />
+      <Item value="ThreadPriorityLevel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.PerformanceCounterCategory">
+      <Item value="GetCategories`0" priority="1" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="5" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.PerformanceCounterCategory">
+      <Item value="CategoryName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="2" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
